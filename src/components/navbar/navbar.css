@@ -100,7 +100,6 @@
 }
 
 .search-input {
-  appearance: none;
   background-color: transparent;
   color: var(--secondary);
   border: none;
@@ -225,12 +224,4 @@
     flex-direction: column;
     gap: 20px;
   }
-
-  /* .navbar-search-container {
-    width: 180px;
-  }
-
-  .search-input {
-    width: 100%;
-  } */
 }
