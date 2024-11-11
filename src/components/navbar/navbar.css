@@ -97,6 +97,7 @@
 }
 
 .search-input {
+  appearance: none;
   background-color: transparent;
   color: var(--secondary);
   border: none;
