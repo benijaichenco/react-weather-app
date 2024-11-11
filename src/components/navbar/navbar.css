@@ -107,6 +107,10 @@
   width: 185px;
 }
 
+.search-input::-webkit-search-cancel-button {
+  display: none;
+}
+
 .search-input::placeholder {
   font-weight: 300;
 }
@@ -217,11 +221,11 @@
     gap: 20px;
   }
 
-  .navbar-search-container {
+  /* .navbar-search-container {
     width: 180px;
   }
 
   .search-input {
     width: 100%;
-  }
+  } */
 }
